@@ -1,0 +1,69 @@
+{
+  "site_name": "Compras China Fácil",
+  "site_base_url": "https://compraschinafacil.com",
+  "language": "pt-BR",
+  "tagline": "Guias simples para brasileiros que querem começar a comprar da China com mais segurança.",
+  "description": "Conteúdo prático para iniciantes que querem entender como comprar da China, evitar erros comuns e começar com mais clareza.",
+  "author_name": "Redação Compras China Fácil",
+  "brand_color": "#0f9d58",
+  "accent_color": "#ffd54f",
+  "default_og_image": "/assets/og/default.webp",
+  "whatsapp": "https://wa.me/601133109658",
+  "default_categories": [
+    "Compras da China",
+    "Primeira Importação",
+    "Erros Comuns",
+    "Fornecedores Chineses"
+  ],
+  "category_meta": {
+    "compras-da-china": {
+      "label": "Compras da China",
+      "description": "Guias simples para entender as etapas básicas de compra e começar com mais segurança."
+    },
+    "primeira-importacao": {
+      "label": "Primeira Importação",
+      "description": "Conteúdo para quem vai fazer a primeira compra ou o primeiro teste com fornecedores chineses."
+    },
+    "erros-comuns": {
+      "label": "Erros Comuns",
+      "description": "Alertas sobre decisões erradas, golpes, expectativas irreais e falhas de processo."
+    },
+    "fornecedores-chineses": {
+      "label": "Fornecedores Chineses",
+      "description": "Dicas para procurar, avaliar e negociar melhor com fornecedores chineses."
+    }
+  },
+  "hero_title": "Como começar a comprar da China com mais segurança",
+  "hero_subtitle": "Um portal para iniciantes brasileiros entenderem fornecedores, pedidos de teste, custos e erros que precisam ser evitados logo no começo.",
+  "primary_cta_label": "Começar pelo básico",
+  "primary_cta_target": "/compras-da-china/",
+  "secondary_cta_label": "Evitar erros comuns",
+  "secondary_cta_target": "/erros-comuns/",
+  "pain_points": [
+    "Não saber por onde começar",
+    "Medo de golpe ou fornecedor ruim",
+    "Dúvida sobre pedido mínimo",
+    "Confusão sobre frete e prazo",
+    "Insegurança na hora de pagar",
+    "Receio de perder dinheiro no primeiro teste"
+  ],
+  "homepage_featured_categories": [
+    "compras-da-china",
+    "primeira-importacao",
+    "erros-comuns"
+  ],
+  "homepage_faq": [
+    {
+      "q": "Como começar a comprar da China pela primeira vez?",
+      "a": "Comece entendendo a categoria do produto, o pedido de teste, o custo total e os riscos básicos antes de negociar com qualquer fornecedor."
+    },
+    {
+      "q": "Preciso investir muito dinheiro no primeiro pedido?",
+      "a": "Não. O ideal é começar com uma amostra ou um teste pequeno para validar fornecedor, prazo, qualidade e custo real antes de ampliar."
+    },
+    {
+      "q": "Como evitar erros comuns ao importar da China?",
+      "a": "Os erros mais comuns acontecem por pressa, falta de comparação, custo mal calculado e confiança excessiva antes de validar o fornecedor."
+    }
+  ]
+}
