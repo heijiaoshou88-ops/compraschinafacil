@@ -442,10 +442,10 @@
     "path": "compras-da-china/001-como-comecar-a-comprar-da-china-sem-fazer-besteira-logo-no-primeiro-passo.html",
     "url": "https://compraschinafacil.com/compras-da-china/001-como-comecar-a-comprar-da-china-sem-fazer-besteira-logo-no-primeiro-passo.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:32Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-como-comecar-a-comprar-da-china-sem-fazer-besteira-logo-no-primeiro-passo",
-    "word_count": 322,
+    "word_count": 608,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -491,6 +491,59 @@
       {
         "type": "text",
         "text": "## Checklist de primeira compra\n\nPara iniciante, este tema precisa caber em uma lista curta: produto, fornecedor, prova, pedido piloto e limite de perda.\n\nSe você ainda não consegue explicar o pedido em poucas linhas, provavelmente ainda não é hora de aumentar o volume.\n\nO caminho mais seguro é validar pequeno, aprender com o pedido e só depois decidir se vale repetir.\n\nPara este artigo, a leitura prática é: como começar a comprar da china sem fazer besteira logo no primeiro passo precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "text": "## Ferramenta prática: Ficha de amostra\n\nUse esta ferramenta junto com o artigo sobre Como começar a comprar da China sem fazer besteira logo no primeiro passo?. Ela transforma a leitura de Compras da China em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra para: Como começar a comprar da China sem fazer besteira logo no primeiro passo?",
+        "intro": "Amostra boa precisa virar critério. Não aprove só porque o item chegou.",
+        "headers": [
+          "Item",
+          "Como avaliar",
+          "Reprovar se"
+        ],
+        "rows": [
+          [
+            "Acabamento",
+            "Compare foto, material e toque",
+            "Difere do prometido"
+          ],
+          [
+            "Embalagem",
+            "Teste proteção e apresentação",
+            "Chega amassada ou sem padrão"
+          ],
+          [
+            "Uso real",
+            "Teste por algumas horas/dias",
+            "Falha antes de uso normal"
+          ],
+          [
+            "Repetição",
+            "Pergunte se o lote virá igual",
+            "Fornecedor não garante padrão"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Como começar a comprar da China sem fazer besteira logo no primeiro passo?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Amostra recebida em: ____\nAcabamento: aprovado / revisar\nEmbalagem: aprovado / revisar\nTamanho/peso: aprovado / revisar\nTeste de uso: aprovado / revisar\nDiferença contra anúncio: ____\nPergunta antes do lote: ____"
       }
     ],
     "faq": [
@@ -512,7 +565,10 @@
       "length_band": "short",
       "voice": "beginner",
       "site_layout": "starter",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "sample_acceptance",
+      "tool_label": "Ficha de amostra"
     }
   },
   {
@@ -535,10 +591,10 @@
     "path": "primeira-importacao/001-primeira-importacao-da-china-precisa-ser-pequena-mesmo-ou-isso-so-atrasa-tudo.html",
     "url": "https://compraschinafacil.com/primeira-importacao/001-primeira-importacao-da-china-precisa-ser-pequena-mesmo-ou-isso-so-atrasa-tudo.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:32Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-primeira-importacao-da-china-precisa-ser-pequena-mesmo-ou-isso-so-atrasa-tudo",
-    "word_count": 657,
+    "word_count": 951,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -584,6 +640,59 @@
       {
         "type": "text",
         "text": "## Checklist de primeira compra\n\nPara iniciante, este tema precisa caber em uma lista curta: produto, fornecedor, prova, pedido piloto e limite de perda.\n\nSe você ainda não consegue explicar o pedido em poucas linhas, provavelmente ainda não é hora de aumentar o volume.\n\nO caminho mais seguro é validar pequeno, aprender com o pedido e só depois decidir se vale repetir.\n\nPara este artigo, a leitura prática é: primeira importação da china precisa ser pequena mesmo ou isso só atrasa tudo precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "text": "## Ferramenta prática: Lista de risco de pagamento\n\nUse esta ferramenta junto com o artigo sobre Primeira importação da China precisa ser pequena mesmo ou isso só atrasa tudo?. Ela transforma a leitura de Primeira Importação em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "title": "Lista de risco de pagamento para: Primeira importação da China precisa ser pequena mesmo ou isso só atrasa tudo?",
+        "intro": "Antes de pagar, separe risco normal de risco sem prova.",
+        "headers": [
+          "Risco",
+          "Como reduzir",
+          "Não pagar se"
+        ],
+        "rows": [
+          [
+            "Produto vago",
+            "Descrição e prova salvas",
+            "Só existe promessa verbal"
+          ],
+          [
+            "Prazo incerto",
+            "Data e etapa por escrito",
+            "Fornecedor evita compromisso"
+          ],
+          [
+            "Pagamento adiantado",
+            "Valor menor, etapa ou plataforma",
+            "Pressa substitui prova"
+          ],
+          [
+            "Problema futuro",
+            "Defeito, atraso e reposição combinados",
+            "Ninguém assume responsabilidade"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "title": "Lista de risco de pagamento copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Primeira importação da China precisa ser pequena mesmo ou isso só atrasa tudo?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Valor a pagar agora: ____\nO que já está provado: ____\nO que ainda está só prometido: ____\nForma de pagamento: ____\nProteção/plataforma: ____\nCondição em caso de problema: ____\nSe eu precisar reclamar, que prova tenho? ____"
       }
     ],
     "faq": [
@@ -605,7 +714,10 @@
       "length_band": "medium",
       "voice": "beginner",
       "site_layout": "starter",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "payment_risk",
+      "tool_label": "Lista de risco de pagamento"
     }
   },
   {
@@ -628,10 +740,10 @@
     "path": "erros-comuns/001-vale-a-pena-importar-da-china-se-voce-tem-medo-de-golpe.html",
     "url": "https://compraschinafacil.com/erros-comuns/001-vale-a-pena-importar-da-china-se-voce-tem-medo-de-golpe.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:32Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-vale-a-pena-importar-da-china-se-voce-tem-medo-de-golpe",
-    "word_count": 961,
+    "word_count": 1252,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -686,6 +798,59 @@
       {
         "type": "text",
         "text": "## Checklist de primeira compra\n\nPara iniciante, este tema precisa caber em uma lista curta: produto, fornecedor, prova, pedido piloto e limite de perda.\n\nSe você ainda não consegue explicar o pedido em poucas linhas, provavelmente ainda não é hora de aumentar o volume.\n\nO caminho mais seguro é validar pequeno, aprender com o pedido e só depois decidir se vale repetir.\n\nPara este artigo, a leitura prática é: vale a pena importar da china se você tem medo de golpe precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "text": "## Ferramenta prática: Checklist de fornecedor\n\nUse esta ferramenta junto com o artigo sobre Vale a pena importar da China se você tem medo de golpe?. Ela transforma a leitura de Erros Comuns em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "title": "Checklist de fornecedor para: Vale a pena importar da China se você tem medo de golpe?",
+        "intro": "Marque apenas o que tem prova salva. Impressão boa não conta como validação.",
+        "headers": [
+          "Checagem",
+          "Prova aceitável",
+          "Quando pausar"
+        ],
+        "rows": [
+          [
+            "Empresa e contato",
+            "Nome, página, histórico e pessoa responsável",
+            "Contato muda de assunto ou some"
+          ],
+          [
+            "Produto real",
+            "Vídeo, foto própria ou amostra",
+            "Só há catálogo genérico"
+          ],
+          [
+            "Prazo e embalagem",
+            "Resposta escrita com detalhe",
+            "Resposta fica em 'sem problema'"
+          ],
+          [
+            "Condição de erro",
+            "Defeito, atraso e reposição explicados",
+            "Fornecedor pressiona pagamento antes da prova"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "title": "Checklist de fornecedor copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Vale a pena importar da China se você tem medo de golpe?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Fornecedor: ____\nContato: ____\nProduto confirmado por prova real? ____\nEmbalagem confirmada? ____\nPrazo escrito? ____\nCondição para defeito/atraso: ____\nPrints salvos: ____\nDecisão: avançar / pedir prova / trocar fornecedor"
       }
     ],
     "faq": [
@@ -707,7 +872,10 @@
       "length_band": "long",
       "voice": "beginner",
       "site_layout": "starter",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "supplier_checklist",
+      "tool_label": "Checklist de fornecedor"
     }
   },
   {
@@ -730,10 +898,10 @@
     "path": "compras-da-china/002-comprar-da-china-parece-barato-ate-voce-descobrir-o-custo-que-ninguem-te-explicou.html",
     "url": "https://compraschinafacil.com/compras-da-china/002-comprar-da-china-parece-barato-ate-voce-descobrir-o-custo-que-ninguem-te-explicou.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:32Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-comprar-da-china-parece-barato-ate-voce-descobrir-o-custo-que-ninguem-te-explicou",
-    "word_count": 503,
+    "word_count": 812,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -779,6 +947,59 @@
       {
         "type": "text",
         "text": "## Checklist de primeira compra\n\nPara iniciante, este tema precisa caber em uma lista curta: produto, fornecedor, prova, pedido piloto e limite de perda.\n\nSe você ainda não consegue explicar o pedido em poucas linhas, provavelmente ainda não é hora de aumentar o volume.\n\nO caminho mais seguro é validar pequeno, aprender com o pedido e só depois decidir se vale repetir.\n\nPara este artigo, a leitura prática é: comprar da china parece barato até você descobrir o custo que ninguém te explicou precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "text": "## Ferramenta prática: Matriz de MOQ\n\nUse esta ferramenta junto com o artigo sobre Comprar da China parece barato até você descobrir o custo que ninguém te explicou?. Ela transforma a leitura de Compras da China em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "title": "Matriz de MOQ para decidir em: Comprar da China parece barato até você descobrir o custo que ninguém te explicou?",
+        "intro": "MOQ não é só quantidade mínima. Ele precisa caber em caixa, teste e giro.",
+        "headers": [
+          "Pergunta",
+          "Resposta que ajuda",
+          "Risco"
+        ],
+        "rows": [
+          [
+            "MOQ declarado",
+            "Quantidade mínima por cor/modelo",
+            "MOQ parece baixo, mas mistura variações"
+          ],
+          [
+            "Valor do teste",
+            "Total que você aceita aprender",
+            "Teste prende caixa demais"
+          ],
+          [
+            "Giro esperado",
+            "Quanto vender em 30-60 dias",
+            "Quantidade exige venda rápida demais"
+          ],
+          [
+            "Próximo lote",
+            "Condição para repetir",
+            "Fornecedor só dá preço bom em volume alto"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "title": "Matriz de MOQ copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Comprar da China parece barato até você descobrir o custo que ninguém te explicou?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "MOQ informado: ____\nQuantidade que consigo testar: ____\nCapital máximo do teste: ____\nVariações/cor/modelo incluídas: ____\nGiro esperado em 30-60 dias: ____\nO que preciso vender para repetir: ____\nDecisão: aceitar MOQ / negociar / trocar produto"
       }
     ],
     "faq": [
@@ -800,7 +1021,10 @@
       "length_band": "medium",
       "voice": "beginner",
       "site_layout": "starter",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "moq_matrix",
+      "tool_label": "Matriz de MOQ"
     }
   },
   {
@@ -823,10 +1047,10 @@
     "path": "primeira-importacao/002-primeiro-pedido-da-china-precisa-de-amostra-mesmo-ou-isso-so-faz-voce-perder-tempo.html",
     "url": "https://compraschinafacil.com/primeira-importacao/002-primeiro-pedido-da-china-precisa-de-amostra-mesmo-ou-isso-so-faz-voce-perder-tempo.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:32Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-primeiro-pedido-da-china-precisa-de-amostra-mesmo-ou-isso-so-faz-voce-perder-tempo",
-    "word_count": 398,
+    "word_count": 717,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -872,6 +1096,59 @@
       {
         "type": "text",
         "text": "## Checklist de primeira compra\n\nPara iniciante, este tema precisa caber em uma lista curta: produto, fornecedor, prova, pedido piloto e limite de perda.\n\nSe você ainda não consegue explicar o pedido em poucas linhas, provavelmente ainda não é hora de aumentar o volume.\n\nO caminho mais seguro é validar pequeno, aprender com o pedido e só depois decidir se vale repetir.\n\nPara este artigo, a leitura prática é: primeiro pedido da china precisa de amostra mesmo ou isso só faz você perder tempo precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "text": "## Ferramenta prática: Modelo de WhatsApp/e-mail\n\nUse esta ferramenta junto com o artigo sobre Primeiro pedido da China precisa de amostra mesmo ou isso só faz você perder tempo?. Ela transforma a leitura de Primeira Importação em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "title": "Campos para pedir cotação sobre: Primeiro pedido da China precisa de amostra mesmo ou isso só faz você perder tempo?",
+        "intro": "Antes de mandar a mensagem, confirme se a pergunta deixa pouco espaço para resposta vaga.",
+        "headers": [
+          "Campo",
+          "Informação a pedir",
+          "Resposta fraca"
+        ],
+        "rows": [
+          [
+            "Produto",
+            "Modelo, material, tamanho, variação",
+            "Fornecedor responde só com preço"
+          ],
+          [
+            "Quantidade",
+            "MOQ, preço por faixa e amostra",
+            "MOQ muda sem explicação"
+          ],
+          [
+            "Embalagem",
+            "Foto, etiqueta, caixa, proteção",
+            "Diz que ajusta depois"
+          ],
+          [
+            "Prazo e pagamento",
+            "Produção, envio, sinal, saldo",
+            "Pede pagamento antes de detalhar"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "title": "Modelo de WhatsApp/e-mail copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Primeiro pedido da China precisa de amostra mesmo ou isso só faz você perder tempo?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Olá, estou avaliando este produto para compra no Brasil/LatAm.\nProduto/modelo: ____\nQuantidade inicial: ____\nPreciso confirmar: material, embalagem, MOQ, prazo de produção, frete estimado e condição em caso de defeito.\nVocê pode enviar foto/vídeo real do produto e cotação por faixa de quantidade?\nObrigado."
       }
     ],
     "faq": [
@@ -893,7 +1170,10 @@
       "length_band": "short",
       "voice": "beginner",
       "site_layout": "starter",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "quote_template",
+      "tool_label": "Modelo de WhatsApp/e-mail"
     }
   },
   {
@@ -916,10 +1196,10 @@
     "path": "erros-comuns/002-escolher-o-fornecedor-mais-barato-logo-no-comeco-e-economia-ou-so-o-erro-mais-comum-com-roupa-nova.html",
     "url": "https://compraschinafacil.com/erros-comuns/002-escolher-o-fornecedor-mais-barato-logo-no-comeco-e-economia-ou-so-o-erro-mais-comum-com-roupa-nova.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:32Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-escolher-o-fornecedor-mais-barato-logo-no-comeco-e-economia-ou-so-o-erro-mais-comum-com-roupa-nova",
-    "word_count": 653,
+    "word_count": 973,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -974,6 +1254,59 @@
       {
         "type": "text",
         "text": "## Checklist de primeira compra\n\nPara iniciante, este tema precisa caber em uma lista curta: produto, fornecedor, prova, pedido piloto e limite de perda.\n\nSe você ainda não consegue explicar o pedido em poucas linhas, provavelmente ainda não é hora de aumentar o volume.\n\nO caminho mais seguro é validar pequeno, aprender com o pedido e só depois decidir se vale repetir.\n\nPara este artigo, a leitura prática é: escolher o fornecedor mais barato logo no começo é economia ou só o erro mais comum com roupa nova precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "text": "## Ferramenta prática: Tabela de custo\n\nUse esta ferramenta junto com o artigo sobre Escolher o fornecedor mais barato logo no começo é economia ou só o erro mais comum com roupa nova?. Ela transforma a leitura de Erros Comuns em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "title": "Tabela de custo para aplicar em: Escolher o fornecedor mais barato logo no começo é economia ou só o erro mais comum com roupa nova?",
+        "intro": "Preencha com números conservadores. Se algum campo ficar em branco, a margem ainda não está pronta.",
+        "headers": [
+          "Campo",
+          "Como preencher",
+          "Sinal de alerta"
+        ],
+        "rows": [
+          [
+            "Preço do produto",
+            "Valor por unidade ou lote",
+            "Preço só aparece em mensagem solta"
+          ],
+          [
+            "Frete e embalagem",
+            "Inclua peso, caixa, etiqueta e envio interno",
+            "Frete ainda depende de chute"
+          ],
+          [
+            "Imposto/custo local",
+            "Use cenário conservador",
+            "A conta ignora chegada ao destino"
+          ],
+          [
+            "Margem mínima",
+            "Compare com preço real de venda",
+            "Lucro depende de vender rápido demais"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "title": "Tabela de custo copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Escolher o fornecedor mais barato logo no começo é economia ou só o erro mais comum com roupa nova?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Produto: ____\nQuantidade: ____\nPreço unitário: ____\nFrete internacional: ____\nImposto/custo local: ____\nEmbalagem/frete interno: ____\nPreço de venda real: ____\nMargem mínima: ____\nDecisão: pagar / testar menor / pausar"
       }
     ],
     "faq": [
@@ -995,7 +1328,10 @@
       "length_band": "medium",
       "voice": "beginner",
       "site_layout": "starter",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "cost_calculator",
+      "tool_label": "Tabela de custo"
     }
   },
   {
@@ -1018,10 +1354,10 @@
     "path": "erros-comuns/003-comecar-a-importar-sem-revisar-embalagem-e-amostra-e-detalhe-pequeno-ou-erro-classico.html",
     "url": "https://compraschinafacil.com/erros-comuns/003-comecar-a-importar-sem-revisar-embalagem-e-amostra-e-detalhe-pequeno-ou-erro-classico.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:32Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 3,
     "slug": "003-comecar-a-importar-sem-revisar-embalagem-e-amostra-e-detalhe-pequeno-ou-erro-classico",
-    "word_count": 582,
+    "word_count": 879,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -1076,6 +1412,59 @@
       {
         "type": "text",
         "text": "## Checklist de primeira compra\n\nPara iniciante, este tema precisa caber em uma lista curta: produto, fornecedor, prova, pedido piloto e limite de perda.\n\nSe você ainda não consegue explicar o pedido em poucas linhas, provavelmente ainda não é hora de aumentar o volume.\n\nO caminho mais seguro é validar pequeno, aprender com o pedido e só depois decidir se vale repetir.\n\nPara este artigo, a leitura prática é: começar a importar sem revisar embalagem e amostra é detalhe pequeno ou erro clássico precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "text": "## Ferramenta prática: Checklist de fornecedor\n\nUse esta ferramenta junto com o artigo sobre Começar a importar sem revisar embalagem e amostra é detalhe pequeno ou erro clássico?. Ela transforma a leitura de Erros Comuns em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "title": "Checklist de fornecedor para: Começar a importar sem revisar embalagem e amostra é detalhe pequeno ou erro clássico?",
+        "intro": "Marque apenas o que tem prova salva. Impressão boa não conta como validação.",
+        "headers": [
+          "Checagem",
+          "Prova aceitável",
+          "Quando pausar"
+        ],
+        "rows": [
+          [
+            "Empresa e contato",
+            "Nome, página, histórico e pessoa responsável",
+            "Contato muda de assunto ou some"
+          ],
+          [
+            "Produto real",
+            "Vídeo, foto própria ou amostra",
+            "Só há catálogo genérico"
+          ],
+          [
+            "Prazo e embalagem",
+            "Resposta escrita com detalhe",
+            "Resposta fica em 'sem problema'"
+          ],
+          [
+            "Condição de erro",
+            "Defeito, atraso e reposição explicados",
+            "Fornecedor pressiona pagamento antes da prova"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "title": "Checklist de fornecedor copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Começar a importar sem revisar embalagem e amostra é detalhe pequeno ou erro clássico?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Fornecedor: ____\nContato: ____\nProduto confirmado por prova real? ____\nEmbalagem confirmada? ____\nPrazo escrito? ____\nCondição para defeito/atraso: ____\nPrints salvos: ____\nDecisão: avançar / pedir prova / trocar fornecedor"
       }
     ],
     "faq": [
@@ -1097,7 +1486,10 @@
       "length_band": "long",
       "voice": "beginner",
       "site_layout": "starter",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "supplier_checklist",
+      "tool_label": "Checklist de fornecedor"
     }
   }
 ]
