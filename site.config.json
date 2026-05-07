@@ -3,45 +3,43 @@
   "default_og_image": "/assets/og/default.webp",
   "whatsapp": "https://wa.me/601133109658",
   "homepage_layout": "starter",
-  "site_name": "Compras China F\u00e1cil",
+  "site_name": "Compras China Fácil",
   "site_base_url": "https://compraschinafacil.com",
-  "tagline": "Primeira compra da China explicada para iniciantes: passos, pedido piloto e erros que custam caro.",
-  "description": "Compras China F\u00e1cil ajuda iniciantes a sair da d\u00favida para a primeira compra com roteiro simples, pedido pequeno, checagem b\u00e1sica e preven\u00e7\u00e3o dos erros mais comuns.",
-  "author_name": "Reda\u00e7\u00e3o Compras China F\u00e1cil",
+  "tagline": "Primeira compra da China com limite de perda claro",
+  "description": "Passos simples para escolher pedido pequeno, pedir prova, entender amostra e parar quando a compra ainda não está clara.",
+  "author_name": "Equipe Compras China Fácil, especialista em primeira compra da China",
   "brand_color": "#0f9d58",
   "accent_color": "#ffd54f",
   "default_categories": [
     "Compras da China",
-    "Primeira Importa\u00e7\u00e3o",
+    "Primeira Importação",
     "Erros Comuns"
   ],
   "category_meta": {
     "compras-da-china": {
-      "label": "Come\u00e7o sem Atalho",
-      "description": "Fundamentos para entender produto, fornecedor, pre\u00e7o e risco antes de fazer a primeira compra."
+      "label": "Começo sem Atalho",
+      "description": "Fundamentos para entender produto, fornecedor, preço e risco antes de fazer a primeira compra."
     },
     "primeira-importacao": {
       "label": "Primeiro Pedido Guiado",
-      "description": "Como montar pedido piloto, pedir amostra, revisar embalagem e evitar come\u00e7ar grande demais."
+      "description": "Como montar pedido piloto, pedir amostra, revisar embalagem e evitar começar grande demais."
     },
     "erros-comuns": {
       "label": "Erros de Iniciante",
-      "description": "Sinais de alerta, atalhos perigosos e decis\u00f5es simples que reduzem preju\u00edzo no come\u00e7o."
+      "description": "Sinais de alerta, atalhos perigosos e decisões simples que reduzem prejuízo no começo."
     }
   },
-  "hero_title": "Primeira compra da China: pedido pequeno e seguro",
-  "hero_subtitle": "Guias diretos para quem est\u00e1 come\u00e7ando e precisa entender fornecedor, amostra, pedido piloto, pagamento e erro comum antes de arriscar mais dinheiro.",
-  "primary_cta_label": "Montar primeiro pedido",
-  "primary_cta_target": "/primeira-importacao/",
-  "secondary_cta_label": "Evitar erros comuns",
-  "secondary_cta_target": "/erros-comuns/",
+  "hero_title": "Primeira compra da China sem pressa para pagar no escuro",
+  "hero_subtitle": "Passos simples para escolher pedido pequeno, pedir prova, entender amostra e parar quando a compra ainda não está clara.",
+  "primary_cta_label": "Montar primeira compra",
+  "primary_cta_target": "/primeira-importacao/003-primeira-compra-da-china-o-que-precisa-estar-claro-antes-de-pagar.html",
+  "secondary_cta_label": "Evitar erro comum",
+  "secondary_cta_target": "/erros-comuns/004-quais-erros-mais-quebram-a-primeira-compra-da-china.html",
   "pain_points": [
-    "N\u00e3o saber por onde come\u00e7ar sem cair em promessa f\u00e1cil",
-    "Escolher fornecedor s\u00f3 pelo menor pre\u00e7o",
-    "Pular amostra ou pedido piloto",
-    "N\u00e3o revisar embalagem, quantidade e especifica\u00e7\u00e3o",
-    "Confundir economia com risco mal calculado",
-    "Fazer a primeira compra grande demais"
+    "Risco central: 第一单、避坑、样品、小额采购、流程解释",
+    "Leitor atendido: iniciante que quer comprar pequeno sem perder dinheiro por pressa",
+    "Fronteira editorial: 不写高级供应链和复杂 B2B 采购",
+    "Decisão sempre baseada em prova, custo e condição para pausar"
   ],
   "homepage_featured_categories": [
     "primeira-importacao",
@@ -50,22 +48,23 @@
   ],
   "homepage_faq": [
     {
-      "q": "Este site \u00e9 para quem j\u00e1 importa muito?",
-      "a": "N\u00e3o. O foco \u00e9 iniciante: primeira compra, pedido piloto, fornecedor b\u00e1sico e preven\u00e7\u00e3o de erros simples."
+      "q": "Qual o primeiro passo para comprar da China?",
+      "a": "Escolher um produto simples, limitar a perda e confirmar produto, prazo, envio e pagamento por escrito."
     },
     {
-      "q": "Qual deve ser o primeiro objetivo?",
-      "a": "Validar produto, fornecedor e processo com pouco risco, antes de tentar volume maior."
+      "q": "Pedido pequeno sai mais caro?",
+      "a": "Pode sair mais caro por unidade, mas reduz perda e mostra se fornecedor, prazo e qualidade são reais."
     },
     {
-      "q": "O menor pre\u00e7o \u00e9 o melhor come\u00e7o?",
-      "a": "Geralmente n\u00e3o. No in\u00edcio, clareza, prova do produto, resposta consistente e pedido controlado valem mais que desconto agressivo."
+      "q": "Quando o iniciante deve parar?",
+      "a": "Quando ainda não sabe exatamente o que será enviado, quanto pode perder ou qual prova recebeu."
     }
   ],
   "author_profile": {
-    "name": "Equipe editorial Compras China F\u00e1cil",
+    "name": "Equipe editorial Compras China Fácil",
     "role": "Pesquisa editorial para primeira compra da China",
-    "bio": "Equipe que transforma d\u00favidas de iniciantes em roteiros de pedido pequeno, amostra, prova do produto e preven\u00e7\u00e3o de erros simples.",
-    "experience": "Os guias s\u00e3o escritos para quem ainda est\u00e1 validando o primeiro fornecedor e precisa limitar risco antes de aumentar volume."
-  }
+    "bio": "Equipe que transforma dúvidas de iniciantes em roteiros de pedido pequeno, amostra, prova do produto e prevenção de erros simples.",
+    "experience": "Os guias são escritos para quem ainda está validando o primeiro fornecedor e precisa limitar risco antes de aumentar volume."
+  },
+  "precision_homepage_type": "ensino"
 }
